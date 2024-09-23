@@ -1,2 +1,3 @@
-Este es el fichero nuevo.mdç
+Este es el fichero nuevo.md
+
 OMG EL RUBIUS
